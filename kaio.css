@@ -29,3 +29,8 @@ nav a:hover{
     color: #2c0202;
     text-decoration: underline;
 }
+
+nav li{
+    display: inline; /*ficar na horizontal*/
+    margin: 0 0 0 15px;
+}
